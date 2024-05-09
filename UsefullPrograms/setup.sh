@@ -55,7 +55,6 @@ done
 #       echo "Incorrect su password. Please try again."
 #   fi
 
-echo"██████"
 
 menu() {
     clear
